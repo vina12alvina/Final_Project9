@@ -1,0 +1,1385 @@
+[2024-06-24T18:18:46.061+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-24T18:18:46.069+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-24T18:18:46.071+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-24T18:18:46.074+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:18:46.103+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T18:23:46.417+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:23:46.578+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T18:28:19.407+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2024-06-24T18:31:35.566+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-24T18:31:35.687+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-24T18:31:35.747+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-24T18:31:35.752+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:31:35.763+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T18:36:35.806+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:36:35.918+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T18:41:36.377+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:41:36.438+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T18:46:37.255+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:46:37.333+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T18:51:38.119+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:51:38.745+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T18:56:07.169+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2024-06-24T18:59:34.269+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-24T18:59:34.298+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-24T18:59:34.319+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-24T18:59:34.321+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T18:59:34.340+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:03:46.330+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2024-06-24T19:07:20.089+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-24T19:07:20.097+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-24T19:07:20.116+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-24T19:07:20.149+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:07:20.170+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:07:42.475+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2024-06-24T19:10:30.396+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-24T19:10:30.405+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-24T19:10:30.414+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-24T19:10:30.418+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:10:30.427+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:15:30.764+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:15:31.056+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:20:31.533+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:20:31.730+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:25:32.228+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:25:32.341+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:30:32.760+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:30:32.797+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:35:33.526+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:35:33.559+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:38:13.572+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2024-06-24T19:41:53.528+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-24T19:41:53.536+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-24T19:41:53.541+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-24T19:41:53.543+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:41:53.555+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:42:28.708+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2024-06-24T19:44:18.513+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-24T19:44:18.560+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-24T19:44:18.614+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-24T19:44:18.622+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:44:18.636+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:49:19.452+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:49:19.531+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-24T19:54:19.747+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-24T19:54:20.241+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T21:53:37.082+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-25T21:53:37.236+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-25T21:53:37.269+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-25T21:53:37.308+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T21:53:37.436+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T21:58:37.879+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T21:58:38.045+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:03:38.395+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:03:38.803+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:08:38.588+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:08:40.148+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:13:39.036+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:13:39.335+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:18:39.075+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:18:39.243+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:23:40.336+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:23:40.441+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:28:41.305+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:28:42.128+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:33:42.061+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:33:42.368+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:38:42.338+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:38:43.984+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:43:42.696+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:43:43.121+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:48:43.490+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:48:43.785+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:53:44.123+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:53:44.317+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:58:44.280+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T22:58:44.423+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T22:58:52.996+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2024-06-25T23:08:14.033+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-25T23:08:14.074+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-25T23:08:14.113+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-25T23:08:14.158+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:08:14.241+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:13:14.290+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:13:14.767+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:18:15.189+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:18:16.392+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:23:15.575+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:23:15.675+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:28:16.080+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:28:16.186+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:33:16.648+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:33:16.689+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:38:17.203+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:38:17.261+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:43:17.458+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:43:17.509+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-25T23:48:18.227+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-25T23:48:19.110+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T04:13:10.564+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-26T04:13:10.577+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-26T04:13:10.589+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-26T04:13:10.598+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T04:13:10.690+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T04:18:10.822+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T04:18:11.089+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T04:23:11.292+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T04:23:11.431+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T04:28:11.289+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T04:28:11.516+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:21:48.310+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-26T07:21:48.316+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-26T07:21:48.319+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-26T07:21:48.322+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:21:48.343+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:26:48.929+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:26:49.325+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:31:49.704+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:31:50.104+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:36:50.050+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:36:50.312+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:41:50.484+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:41:50.629+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:46:51.179+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:46:51.958+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:51:54.358+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:52:01.819+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T07:56:54.562+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T07:56:54.853+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:01:55.331+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:01:56.032+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:06:55.778+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:06:55.941+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:11:55.844+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:11:56.078+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:16:56.487+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:16:56.514+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:21:58.214+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:21:59.503+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:26:57.908+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:26:58.104+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:31:58.248+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:31:58.289+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:36:58.797+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:36:58.896+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:41:58.805+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:41:58.847+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:46:59.376+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:46:59.394+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:52:00.034+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:52:00.201+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T08:57:00.855+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T08:57:01.098+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:10:33.198+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-26T09:10:33.437+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-26T09:10:33.578+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-26T09:10:33.729+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:10:34.578+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:15:34.603+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:15:34.873+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:20:34.615+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:20:34.967+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:25:34.964+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:25:35.168+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:30:35.759+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:30:35.931+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:35:36.459+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:35:36.609+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:48:17.440+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-26T09:48:17.459+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-26T09:48:17.467+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-26T09:48:17.490+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:48:17.821+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:53:18.096+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:53:18.215+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T09:58:18.423+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T09:58:18.507+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T10:03:18.495+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:03:18.507+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T10:08:19.031+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:08:19.261+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2024-06-26T10:13:19.943+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:13:19.994+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T10:13:36.218+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           0  2.31s           2024-06-26T10:13:23
+================================================================================
+[2024-06-26T10:14:06.721+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           0  0.38s           2024-06-26T10:13:54
+================================================================================
+[2024-06-26T10:14:37.492+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           0  0.32s           2024-06-26T10:14:25
+================================================================================
+[2024-06-26T10:15:07.530+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           0  0.56s           2024-06-26T10:14:56
+================================================================================
+[2024-06-26T10:15:38.033+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  1.36s           2024-06-26T10:15:18
+================================================================================
+[2024-06-26T10:16:08.411+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.39s           2024-06-26T10:15:48
+================================================================================
+[2024-06-26T10:16:39.169+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.24s           2024-06-26T10:16:18
+================================================================================
+[2024-06-26T10:17:09.938+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.22s           2024-06-26T10:16:49
+================================================================================
+[2024-06-26T10:17:40.371+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.47s           2024-06-26T10:17:12
+================================================================================
+[2024-06-26T10:18:11.300+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.19s           2024-06-26T10:17:43
+================================================================================
+[2024-06-26T10:18:20.181+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:18:20.290+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T10:18:41.461+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.33s           2024-06-26T10:18:41
+================================================================================
+[2024-06-26T10:19:11.635+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    274  0.02s             1           0  0.33s           2024-06-26T10:18:41
+================================================================================
+[2024-06-26T10:19:42.230+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.18s           2024-06-26T10:19:21
+================================================================================
+[2024-06-26T10:20:12.643+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.16s           2024-06-26T10:19:52
+================================================================================
+[2024-06-26T10:20:43.084+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.18s           2024-06-26T10:20:23
+================================================================================
+[2024-06-26T10:21:13.730+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.25s           2024-06-26T10:21:12
+================================================================================
+[2024-06-26T10:21:44.371+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.22s           2024-06-26T10:21:43
+================================================================================
+[2024-06-26T10:22:15.171+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.41s           2024-06-26T10:21:58
+================================================================================
+[2024-06-26T10:22:45.582+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.17s           2024-06-26T10:22:28
+================================================================================
+[2024-06-26T10:23:16.095+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.17s           2024-06-26T10:22:58
+================================================================================
+[2024-06-26T10:23:21.152+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:23:21.212+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T10:23:46.806+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.16s           2024-06-26T10:23:29
+================================================================================
+[2024-06-26T10:24:17.490+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.24s           2024-06-26T10:24:00
+================================================================================
+[2024-06-26T10:24:47.998+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.21s           2024-06-26T10:24:22
+================================================================================
+[2024-06-26T10:25:18.640+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.31s           2024-06-26T10:24:49
+================================================================================
+[2024-06-26T10:25:49.054+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.30s           2024-06-26T10:25:19
+================================================================================
+[2024-06-26T10:26:19.453+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.17s           2024-06-26T10:25:50
+================================================================================
+[2024-06-26T10:26:49.928+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.19s           2024-06-26T10:26:20
+================================================================================
+[2024-06-26T10:27:20.334+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.15s           2024-06-26T10:26:51
+================================================================================
+[2024-06-26T10:27:50.821+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.33s           2024-06-26T10:27:21
+================================================================================
+[2024-06-26T10:28:21.243+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:28:21.331+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T10:28:21.391+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.25s           2024-06-26T10:27:52
+================================================================================
+[2024-06-26T10:28:51.865+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.27s           2024-06-26T10:28:22
+================================================================================
+[2024-06-26T10:29:22.375+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.19s           2024-06-26T10:28:53
+================================================================================
+[2024-06-26T10:29:52.803+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.31s           2024-06-26T10:29:23
+================================================================================
+[2024-06-26T10:30:23.326+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.19s           2024-06-26T10:29:54
+================================================================================
+[2024-06-26T10:30:53.870+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  5.25s           2024-06-26T10:30:29
+================================================================================
+[2024-06-26T10:31:23.927+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  3.48s           2024-06-26T10:31:03
+================================================================================
+[2024-06-26T10:31:54.452+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  3.43s           2024-06-26T10:31:37
+================================================================================
+[2024-06-26T10:32:25.107+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  12.02s          2024-06-26T10:32:20
+================================================================================
+[2024-06-26T10:32:55.548+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    419  4.12s             0           1  12.02s          2024-06-26T10:32:20
+================================================================================
+[2024-06-26T10:33:21.510+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:33:21.602+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T10:33:26.062+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  17.50s          2024-06-26T10:33:08
+================================================================================
+[2024-06-26T10:33:56.122+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  10.70s          2024-06-26T10:33:49
+================================================================================
+[2024-06-26T10:34:26.226+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.27s           2024-06-26T10:34:20
+================================================================================
+[2024-06-26T10:34:56.353+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.63s           2024-06-26T10:34:51
+================================================================================
+[2024-06-26T10:35:26.448+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.46s           2024-06-26T10:35:21
+================================================================================
+[2024-06-26T10:35:56.879+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.60s           2024-06-26T10:35:52
+================================================================================
+[2024-06-26T10:36:27.062+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.64s           2024-06-26T10:36:24
+================================================================================
+[2024-06-26T10:36:57.368+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.69s           2024-06-26T10:36:36
+================================================================================
+[2024-06-26T10:37:27.621+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.26s           2024-06-26T10:37:07
+================================================================================
+[2024-06-26T10:37:57.635+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.62s           2024-06-26T10:37:38
+================================================================================
+[2024-06-26T10:38:21.544+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:38:21.622+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T10:38:27.842+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.29s           2024-06-26T10:38:08
+================================================================================
+[2024-06-26T10:38:57.942+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.34s           2024-06-26T10:38:53
+================================================================================
+[2024-06-26T10:39:28.647+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.25s           2024-06-26T10:39:23
+================================================================================
+[2024-06-26T10:39:59.128+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.21s           2024-06-26T10:39:54
+================================================================================
+[2024-06-26T10:40:29.412+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.82s           2024-06-26T10:40:25
+================================================================================
+[2024-06-26T10:41:00.073+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  1.43s           2024-06-26T10:40:57
+================================================================================
+[2024-06-26T10:41:30.562+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.28s           2024-06-26T10:41:27
+================================================================================
+[2024-06-26T10:42:00.575+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.36s           2024-06-26T10:41:35
+================================================================================
+[2024-06-26T10:42:30.851+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.40s           2024-06-26T10:42:12
+================================================================================
+[2024-06-26T10:43:01.479+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.49s           2024-06-26T10:42:43
+================================================================================
+[2024-06-26T10:43:21.811+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T10:43:21.863+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T10:43:32.058+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  1.08s           2024-06-26T10:43:14
+================================================================================
+[2024-06-26T10:44:02.506+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.17s           2024-06-26T10:43:45
+================================================================================
+[2024-06-26T10:44:33.307+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  2.05s           2024-06-26T10:44:17
+================================================================================
+[2024-06-26T10:45:03.432+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.68s           2024-06-26T10:44:49
+================================================================================
+[2024-06-26T10:45:33.497+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.24s           2024-06-26T10:45:31
+================================================================================
+[2024-06-26T10:46:04.079+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           0           1  0.23s           2024-06-26T10:46:02
+================================================================================
+[2024-06-26T13:08:56.598+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2024-06-26T13:08:56.657+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-26T13:08:56.672+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-06-26T13:08:56.696+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:08:57.228+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:09:02.293+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/sentiment_analysis.py    202  2.76s             0           0
+================================================================================
+[2024-06-26T13:09:33.180+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  7.10s           2024-06-26T13:09:06
+================================================================================
+[2024-06-26T13:10:03.534+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  4.18s           2024-06-26T13:09:41
+================================================================================
+[2024-06-26T13:10:33.834+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  2.21s           2024-06-26T13:10:15
+================================================================================
+[2024-06-26T13:11:04.127+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.52s           2024-06-26T13:10:47
+================================================================================
+[2024-06-26T13:11:34.615+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.96s           2024-06-26T13:11:18
+================================================================================
+[2024-06-26T13:12:04.632+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  2.11s           2024-06-26T13:11:51
+================================================================================
+[2024-06-26T13:12:35.044+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  4.15s           2024-06-26T13:12:26
+================================================================================
+[2024-06-26T13:13:06.021+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  6.55s           2024-06-26T13:13:03
+================================================================================
+[2024-06-26T13:13:36.179+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.31s           2024-06-26T13:13:35
+================================================================================
+[2024-06-26T13:13:57.453+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:13:57.623+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:14:07.099+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    247  1.06s             1           0  1.31s           2024-06-26T13:13:35
+================================================================================
+[2024-06-26T13:14:37.948+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    252  0.01s             1           0  1.16s           2024-06-26T13:14:07
+================================================================================
+[2024-06-26T13:15:08.592+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    257  0.02s             1           0  0.46s           2024-06-26T13:14:38
+================================================================================
+[2024-06-26T13:15:39.154+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.16s           2024-06-26T13:15:09
+================================================================================
+[2024-06-26T13:16:09.568+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.83s           2024-06-26T13:15:41
+================================================================================
+[2024-06-26T13:16:39.618+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.49s           2024-06-26T13:16:12
+================================================================================
+[2024-06-26T13:17:10.213+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.21s           2024-06-26T13:16:43
+================================================================================
+[2024-06-26T13:17:40.355+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.68s           2024-06-26T13:17:15
+================================================================================
+[2024-06-26T13:18:10.364+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.02s           2024-06-26T13:17:46
+================================================================================
+[2024-06-26T13:18:40.388+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.68s           2024-06-26T13:18:18
+================================================================================
+[2024-06-26T13:18:58.251+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:18:58.705+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:19:11.264+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.86s           2024-06-26T13:18:49
+================================================================================
+[2024-06-26T13:19:41.876+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.71s           2024-06-26T13:19:20
+================================================================================
+[2024-06-26T13:20:11.983+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.52s           2024-06-26T13:19:51
+================================================================================
+[2024-06-26T13:20:42.515+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.99s           2024-06-26T13:20:23
+================================================================================
+[2024-06-26T13:21:13.182+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.62s           2024-06-26T13:20:53
+================================================================================
+[2024-06-26T13:21:43.438+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.75s           2024-06-26T13:21:25
+================================================================================
+[2024-06-26T13:22:13.809+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.86s           2024-06-26T13:21:56
+================================================================================
+[2024-06-26T13:22:44.123+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.91s           2024-06-26T13:22:27
+================================================================================
+[2024-06-26T13:23:14.670+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  2.02s           2024-06-26T13:23:00
+================================================================================
+[2024-06-26T13:23:44.867+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.59s           2024-06-26T13:23:31
+================================================================================
+[2024-06-26T13:23:58.599+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:23:58.703+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:24:15.568+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.63s           2024-06-26T13:24:02
+================================================================================
+[2024-06-26T13:24:46.415+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.51s           2024-06-26T13:24:33
+================================================================================
+[2024-06-26T13:25:16.686+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.49s           2024-06-26T13:25:04
+================================================================================
+[2024-06-26T13:25:47.188+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.47s           2024-06-26T13:25:34
+================================================================================
+[2024-06-26T13:26:17.528+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.45s           2024-06-26T13:26:05
+================================================================================
+[2024-06-26T13:26:48.021+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.76s           2024-06-26T13:26:37
+================================================================================
+[2024-06-26T13:27:18.391+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.82s           2024-06-26T13:27:08
+================================================================================
+[2024-06-26T13:27:49.193+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  5.96s           2024-06-26T13:27:44
+================================================================================
+[2024-06-26T13:28:19.850+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.36s           2024-06-26T13:28:16
+================================================================================
+[2024-06-26T13:28:50.149+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.68s           2024-06-26T13:28:47
+================================================================================
+[2024-06-26T13:28:58.693+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:28:59.102+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:29:22.570+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    392  3.09s             1           0  0.68s           2024-06-26T13:28:47
+================================================================================
+[2024-06-26T13:29:53.063+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  5.63s           2024-06-26T13:29:23
+================================================================================
+[2024-06-26T13:30:23.675+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  6.20s           2024-06-26T13:29:59
+================================================================================
+[2024-06-26T13:30:54.413+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  7.80s           2024-06-26T13:30:37
+================================================================================
+[2024-06-26T13:31:24.928+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  3.87s           2024-06-26T13:31:11
+================================================================================
+[2024-06-26T13:31:59.598+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    412  16.27s            1           0  3.87s           2024-06-26T13:31:11
+================================================================================
+[2024-06-26T13:32:29.630+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  22.36s          2024-06-26T13:32:05
+================================================================================
+[2024-06-26T13:32:59.702+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    417  21.62s            1           0  22.36s          2024-06-26T13:32:05
+================================================================================
+[2024-06-26T13:33:30.391+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  23.04s          2024-06-26T13:33:01
+================================================================================
+[2024-06-26T13:33:58.935+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:33:59.005+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:34:00.592+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  8.06s           2024-06-26T13:33:39
+================================================================================
+[2024-06-26T13:34:30.871+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.21s           2024-06-26T13:34:12
+================================================================================
+[2024-06-26T13:35:01.062+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.36s           2024-06-26T13:34:42
+================================================================================
+[2024-06-26T13:35:31.209+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.55s           2024-06-26T13:35:13
+================================================================================
+[2024-06-26T13:36:01.715+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  3.08s           2024-06-26T13:35:48
+================================================================================
+[2024-06-26T13:36:33.392+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    447  12.83s            1           0  3.08s           2024-06-26T13:35:48
+================================================================================
+[2024-06-26T13:37:06.665+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  27.63s          2024-06-26T13:36:46
+================================================================================
+[2024-06-26T13:37:36.957+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  3.07s           2024-06-26T13:37:22
+================================================================================
+[2024-06-26T13:38:07.073+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.09s           2024-06-26T13:37:53
+================================================================================
+[2024-06-26T13:38:37.136+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.94s           2024-06-26T13:38:25
+================================================================================
+[2024-06-26T13:38:59.607+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:38:59.675+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:39:07.842+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.44s           2024-06-26T13:38:55
+================================================================================
+[2024-06-26T13:39:38.435+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.98s           2024-06-26T13:39:27
+================================================================================
+[2024-06-26T13:40:08.914+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.41s           2024-06-26T13:39:58
+================================================================================
+[2024-06-26T13:40:39.090+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.96s           2024-06-26T13:40:29
+================================================================================
+[2024-06-26T13:41:09.423+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  2.90s           2024-06-26T13:41:03
+================================================================================
+[2024-06-26T13:41:39.486+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.84s           2024-06-26T13:41:34
+================================================================================
+[2024-06-26T13:42:10.211+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.42s           2024-06-26T13:42:05
+================================================================================
+[2024-06-26T13:42:40.875+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.26s           2024-06-26T13:42:37
+================================================================================
+[2024-06-26T13:43:11.152+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.50s           2024-06-26T13:43:08
+================================================================================
+[2024-06-26T13:43:41.219+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.43s           2024-06-26T13:43:39
+================================================================================
+[2024-06-26T13:44:00.304+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-06-26T13:44:00.394+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-06-26T13:44:11.530+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.55s           2024-06-26T13:44:10
+================================================================================
+[2024-06-26T13:44:41.749+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    522  0.33s             1           0  0.55s           2024-06-26T13:44:10
+================================================================================
+[2024-06-26T13:45:12.926+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py    527  0.02s             1           0  1.07s           2024-06-26T13:44:42
+================================================================================
+[2024-06-26T13:45:43.256+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.83s           2024-06-26T13:45:14
+================================================================================
+[2024-06-26T13:46:14.127+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.61s           2024-06-26T13:45:45
+================================================================================
+[2024-06-26T13:46:44.719+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.32s           2024-06-26T13:46:17
+================================================================================
+[2024-06-26T13:47:15.423+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.35s           2024-06-26T13:46:48
+================================================================================
+[2024-06-26T13:47:46.158+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.74s           2024-06-26T13:47:19
+================================================================================
+[2024-06-26T13:48:16.438+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  0.60s           2024-06-26T13:47:50
+================================================================================
+[2024-06-26T13:48:46.604+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sentiment_analysis.py                           1           0  1.57s           2024-06-26T13:48:22
+================================================================================
